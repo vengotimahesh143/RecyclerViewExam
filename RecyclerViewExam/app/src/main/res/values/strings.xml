@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string-array name="titles">
+        <item>Airport</item>
+        <item>Birlamandir</item>
+        <item>Buddha</item>
+        <item>Charminar</item>
+        <item>Flyover</item>
+        <item>Hitechcity</item>
+        <item>Inorbitmall</item>
+        <item>Itpark</item>
+        <item>RamojiFilmCity</item>
+        <item>Snowworld</item>
+    </string-array>
+</resources>
